@@ -13,7 +13,6 @@ Uygulama, kullanıcı bilgilerini ve iş deneyimlerini PDF olarak yazdırır, ay
 - 3 örnek iş deneyimi  
 - Kişisel bilgileri dinamik olarak PDF'e ekleme  
 - Fotoğraf ekleme desteği  
-- Arayüz gerektirmez (CLI tabanlı)
 
 ---
 
