@@ -48,7 +48,7 @@ public class PdfResumeGenerator {
             document.save("ozgecmis.pdf");
             document.close();
 
-            System.out.println("PDF başarıyla oluşturuldu (fotoğraf eklendi)!");
+            System.out.println("PDF başarıyla oluşturuldu!");
         } catch (Exception e) {
             e.printStackTrace();
         }
