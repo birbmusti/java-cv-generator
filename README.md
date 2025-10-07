@@ -28,5 +28,5 @@ Uygulama, kullanıcı bilgilerini ve iş deneyimlerini PDF olarak yazdırır, ay
 
 1. Bu projeyi klonla veya indir:
    ```bash
-   git clone https://github.com/<kullanıcı-adın>/PdfResumeGenerator.git
-   cd PdfResumeGenerator
+   git clone https://github.com/birbmusti/java-cv-generator.git
+   cd java-cv-generator
